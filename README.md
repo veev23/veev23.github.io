@@ -1,12 +1,6 @@
+<!DOCTYPE html>
 <html>
   <head>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-9586028374479291",
-          enable_page_level_ads: true
-     });
-</script>
     </head>
   <body>
 <h1>Summonerswar</h1>
