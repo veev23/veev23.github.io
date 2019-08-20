@@ -1,3 +1,14 @@
+<html>
+  <head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9586028374479291",
+          enable_page_level_ads: true
+     });
+</script>
+    </head>
+  <body>
 <h1>Summonerswar</h1>
 
 <div>Summoners War Calculator</div>
@@ -22,3 +33,6 @@
 <br/>
 <p>계산기상의 데미지는 소숫점을 버리고, 실제 데미지는 이론상 데미지에서 오차가 있기 때문에 결과값으로 나오는 방어력 또한 차이가 있습니다.</p>
 </details>
+
+</body>
+</html>
