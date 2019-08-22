@@ -1,7 +1,10 @@
 
+<header>
 <h1>Summonerswar</h1>
 
 <div>Summoners War Calculator</div>
+</header>
+<section>
 <br/>
 <h3><a href="https://veev23.github.io/2018-swar/DamageCalc" target="_blank">서머너즈워 데미지 계산기 링크</a></h3>
 <details>
@@ -26,7 +29,8 @@
 <p>참고 4 : 카이로스 등에서의 데미지를 알고 싶은데 길드레벨에 의한 %증가는 입력칸이 없으므로 다른 데에서 +해주시면 됩니다.</p>
 <p>참고 5 : 자동세팅 -> 풍연에서 풍연의 계수는 1스와 3스 둘 다 풀스작 기준으로 세팅된 상태입니다.</p>
 </details>
-<br/>
+ </section>
+ <section>
 <h3><a href="https://veev23.github.io/2018-swar/defInversion" target="_blank">서머너즈워 방어력 역산기 링크</a></h3>
 <details>
   <summary>서머너즈워 방어력 역산기 설명 Click</summary>
@@ -40,4 +44,6 @@
 <br/>
 <p>계산기상의 데미지는 소숫점을 버리고, 실제 데미지는 이론상 데미지에서 오차가 있기 때문에 결과값으로 나오는 방어력 또한 차이가 있습니다.</p>
 </details>
-
+  </section>
+<footer>
+  </footer>
